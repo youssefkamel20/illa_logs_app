@@ -1,6 +1,6 @@
 # illa_logging_app
 
-A new project that reads and sorts logs returning from running application
+A new project that reads and sorts logs returning from running application.
 
 ## Getting Started
 
